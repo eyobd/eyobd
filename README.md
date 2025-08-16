@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eyob
-- 👀 I’m interested in mobile app develpment 
+- 👀 I’m interested in web / mobile app develpment 
 - 🌱 I’m currently learning Swft
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
